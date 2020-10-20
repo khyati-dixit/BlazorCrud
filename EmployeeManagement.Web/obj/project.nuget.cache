@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/fX0qWaGp4xCKKtin4OFD349UK2D50CwtHLy7dHBcKcagDU79PGStKXu+KfD/1K0/7R+16G7MzUyzNFqs7b9BQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khyati dixit\\source\\repos\\EmployeeManagement.Models\\EmployeeManagement.Web\\EmployeeManagement.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khyati dixit\\.nuget\\packages\\microsoft.aspnetcore.blazor.httpclient\\3.2.0-preview3.20168.3\\microsoft.aspnetcore.blazor.httpclient.3.2.0-preview3.20168.3.nupkg.sha512",
+    "C:\\Users\\khyati dixit\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\khyati dixit\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
