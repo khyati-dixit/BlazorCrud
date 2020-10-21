@@ -12,6 +12,7 @@ C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
@@ -51,6 +52,8 @@ C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.csprojAssemblyReference.cache
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.AssemblyInfoInputs.cache
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.AssemblyInfo.cs
+C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.RazorTargetAssemblyInfo.cache
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.csproj.CopyComplete
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\staticwebassets\EmployeeManagement.Api.StaticWebAssets.Manifest.cache
@@ -58,6 +61,3 @@ C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.dll
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.pdb
 C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.genruntimeconfig.cache
-C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.csproj.CoreCompileInputs.cache
-C:\Users\khyati dixit\source\repos\EmployeeManagement.Models\EmployeeManagement.Api\obj\Debug\netcoreapp3.1\EmployeeManagement.Api.MvcApplicationPartsAssemblyInfo.cache

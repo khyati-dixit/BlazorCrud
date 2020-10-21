@@ -1,0 +1,36 @@
+﻿@page "/employeedetails/{id}"
+@page "/employeedetails"
+@inherits EmployeeDetailsBase
+<h3>EmployeeDetails</h3>
+@if (Employe == null || Employe.Department == null)
+{
+<div class="spinner"></div>
+}
+else
+{
+<div class="row justify-content-center m-3">
+    <div class="col-sm-8">
+    <div class="card">
+        <div class="card-header">
+           <h1>@Employe.FirstName @Employe.LastName</h1>
+        </div>
+        <div class="card-body text-center">
+            <img class="card-img-top imageThumbnail" src="@Employe.PhotoPath" />
+
+            <h4>Employee ID : @Employe.EmpolyeeId</h4>
+            <h4>Email : @Employe.Email</h4>
+            <h4>Department : @Employe.Department.DepartmentName</h4>
+            <h4>Gender : @Employe.Gender</h4>
+            <h4>DOB: @Employe.DateOfBirth</h4>
+        </div>
+        <div class="card-footer text-center">
+            <a href="/" class="btn btn-success m-1">Back</a>
+            <a href="@($"editemploye/{Employe.EmpolyeeId}")" class="btn btn-primary m-1">Edit</a>
+            <a href="#" class="btn btn-danger m-1">Delete</a>
+        </div>
+
+        
+    </div>
+    </div>
+</div>
+}1

@@ -9,5 +9,6 @@ namespace EmployeeManagement.Web.Services
    public interface IEmployeeService
     {
         Task<IEnumerable<Employe>> GetEmployees();
+        Task<Employe> GetEmploye(int id);
     }
 }
